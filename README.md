@@ -12,6 +12,7 @@
 - 基于ROS的Navigation Stack开发
 - 视觉SLAM建图（如ORBSLAM、RTABMap）
 - 基于webots的机械臂开发
+
 在基于Pytorch的计算机视觉模型开发部分，主要基于YOLO11完成比赛所需的目标检测和分类任务。我全流程完成数据集制作、模型训练及微调、Nvidia Jetson边缘终端设备部署。以下是我完成的内容：
 - [中国高校智能机器人创意大赛--仪表盘、数字、锥形桶识别等数据集](https://universe.roboflow.com/wendychen/dashboard_seg)
 - [全球校园人工智能算法精英大赛--人物模型、车牌、红绿灯等数据集](https://universe.roboflow.com/wendychen/realsence_detect-3-kjf3p)
