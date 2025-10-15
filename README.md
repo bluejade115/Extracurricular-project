@@ -6,7 +6,10 @@
 
 我完成了以下项目：
 - [基于STM32的红外检测的循迹小车](Infrared-Line-Tracking-Vehicle/)
-- ![演示视频](https://bluejade115.github.io/WendyChen.github.io/Infrared-Line-Tracking-Vehicle/video/car.mp4)
+<video width="600" controls>
+  <source src="https://bluejade115.github.io/WendyChen.github.io/Infrared-Line-Tracking-Vehicle/video/car.mp4" type="video/mp4">
+  您的浏览器不支持视频标签。
+</video>
 ## 大二期间
 大二期间，我主要学习基于以下知识：
 - 基于Pytorch的计算机视觉模型开发（如YOLO，RT-DETR，ResNet）
