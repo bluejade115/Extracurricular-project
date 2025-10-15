@@ -6,7 +6,7 @@
 
 我完成了以下项目：
 - [基于STM32的红外检测的循迹小车](Infrared-Line-Tracking-Vehicle/)
-- [demo](./Infrared-Line-Tracking-Vehicle/video/car.mp4)
+- ![demo](./Infrared-Line-Tracking-Vehicle/video/car.mp4)
 ## 大二期间
 大二期间，我主要学习基于以下知识：
 - 基于Pytorch的计算机视觉模型开发（如YOLO，RT-DETR，ResNet）
