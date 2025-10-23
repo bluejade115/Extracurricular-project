@@ -38,7 +38,7 @@
 - **背景**：
 - **技术细节**：
 - **代码**：
-- **数据集**：
+- **数据集**：[全球校园人工智能算法精英大赛--人物模型、车牌数据集](https://universe.roboflow.com/wendychen/detectpeople-obpao)
 - **演示demo**：
 ### 基于Jetson Orin Nano的小车的雷达SLAM导航和目标检测
 - **背景**：
