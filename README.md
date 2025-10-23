@@ -29,7 +29,7 @@
 - **演示demo**:
 
 ### 基于Jetson Xavier NX的机器狗的视觉导航和目标检测
-- **背景**：本项目是为[2025年中国高校智能机器人创意大赛--国赛(https://www.robotcontest.cn/home/homepage)而准备的。任务内容是绝影Lite3机器狗自主完成巡检和识别任务。
+- **背景**：本项目是为[2025年中国高校智能机器人创意大赛--国赛](https://www.robotcontest.cn/home/homepage)而准备的。任务内容是绝影Lite3机器狗自主完成巡检和识别任务。
 - **技术细节**：
 - **代码**：
 - **数据集**：[中国高校智能机器人创意大赛--仪表盘、数字、锥形桶识别等数据集](https://universe.roboflow.com/wendychen/dashboard_seg)
