@@ -26,14 +26,14 @@
 - **技术细节**:我们完成在[Roboflow](https://universe.roboflow.com/)网站完成制作数据集。由于任务简单，我们采取基于YOLO11n-cls的图片分类的方案。我们使用Ultralytics提供docker镜像在Jetson Xavier NX完成Yolo环境的配置，并且使用TensorRT进行加速。
 - **代码**:
 - **数据集**：[中国高校智能机器人创意大赛--仪表盘](https://universe.roboflow.com/wendychen/dashboard-wso6u)
-- **演示demo**:
+- **演示demo**:[仪表盘识别演示视频](https://www.bilibili.com/video/BV1mFsBzPEqx/?vd_source=81726bac22adbbca237a59d73b58f1b1)
 
 ### 基于Jetson Xavier NX的机器狗的视觉导航和目标检测
 - **背景**：本项目是为[2025年中国高校智能机器人创意大赛--国赛](https://www.robotcontest.cn/home/homepage)而准备的。任务内容是绝影Lite3机器狗自主完成巡检和识别任务。
 - **技术细节**：
 - **代码**：
 - **数据集**：[中国高校智能机器人创意大赛--仪表盘、数字、锥形桶识别等数据集](https://universe.roboflow.com/wendychen/dashboard_seg)
-- **演示demo**：
+- **演示demo**：[机器狗巡检演示视频](https://www.bilibili.com/video/BV1bRsqzqEZX/?vd_source=81726bac22adbbca237a59d73b58f1b1)
 ### 基于MoveIt2的机械臂的仿真抓取
 - **背景**：
 - **技术细节**：
